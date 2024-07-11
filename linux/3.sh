@@ -1,10 +1,9 @@
 #!/bin/bash
 
-# Usage:
-# ./3.sh DIRECTORY
+# Usage: ./3.sh DIRECTORY
 
 show_file_statistics() {
-    # Define paramter to variable
+    # Define variable from parameter
     DIRECTORY=$1
 
     # Validate directory

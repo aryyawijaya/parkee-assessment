@@ -1,10 +1,9 @@
 #!/bin/bash
 
-# Usage:
-# ./2.sh SOURCE_DIRECTORY BACKUP_LOCATION
+# Usage: ./2.sh SOURCE_DIRECTORY BACKUP_LOCATION
 
 backup_directory() {
-    # Define paramaeter to variable
+    # Define variable from parameter
     SOURCE_DIRECTORY=$1
     BACKUP_DIRECTORY=$2
     TIMESTAMP=$(date +"%Y%m%d%H%M%S")

@@ -1,10 +1,9 @@
 #!/bin/bash
 
-# Usage:
-# ./4.sh SOURCE_DIRECTORY BACKUP_DIRECTORY
+# Usage: ./4.sh SOURCE_DIRECTORY BACKUP_DIRECTORY
 
 backup_directory() {
-    # Define paramaeter to variable
+    # Define variable from parameter
     SOURCE_DIRECTORY=$1
     BACKUP_DIRECTORY=$2
     TIMESTAMP=$(date +"%Y%m%d%H%M%S")
@@ -34,7 +33,7 @@ backup_directory() {
 }
 
 cleanup_old_backups() {
-    # Define paramaeter to variable
+    # Define variable from parameter
     BACKUP_DIRECTORY=$1
 
     # Delete backup that older than 7 days

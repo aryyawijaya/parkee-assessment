@@ -1,0 +1,96 @@
+alpha_two_code,Name,Domains,Web pages,Country,State Province
+US,University of Pittsburgh Medical Center,"['upmc.edu', 'upmc.com']",['https://www.upmc.com/'],United States,Pennsylvania
+US,The University of Texas at Rio Grande Valley,['utrgv.edu'],['https://www.utrgv.edu/'],United States,Texas
+US,Utah Valley University,['uvu.edu'],['https://uvu.edu/'],United States,Utah
+US,Florida Polytechnic University,['floridapoly.edu'],['https://floridapoly.edu/'],United States,Florida
+US,College of Southern Nevada,['csn.edu'],['https://www.csn.edu/'],United States,NV
+US,Bloomsburg University of Pennsylvania,['bloomu.edu'],['http://www.bloomu.edu/'],United States,Pennsylvania
+US,California University of Pennsylvania,['cup.edu'],['http://www.cup.edu/'],United States,Pennsylvania
+US,Clarion University of Pennsylvania,['clarion.edu'],['http://www.clarion.edu/'],United States,Pennsylvania
+US,Allen College,['allencollege.edu'],['https://www.allencollege.edu/'],United States,Iowa
+US,East Stroudsburg State University of Pennsylvania,['esu.edu'],['http://www.esu.edu/'],United States,Pennsylvania
+US,Edinboro University of Pennsylvania,['edinboro.edu'],['http://www.edinboro.edu/'],United States,Pennsylvania
+US,Emory & Henry College,['ehc.edu'],['https://www.ehc.edu/'],United States,VA
+US,East Texas Baptist University,['etbu.edu'],['https://www.etbu.edu/'],United States,TX
+US,Haverford College in Pennsylvania,['haverford.edu'],['http://www.haverford.edu/'],United States,Pennsylvania
+US,Indiana University - Bloomington,"['indiana.edu', 'iub.edu', 'bloomington.iu.edu']",['https://bloomington.iu.edu/'],United States,Indiana
+US,Indiana University of Pennsylvania,['iup.edu'],['http://www.iup.edu/'],United States,Pennsylvania
+US,Kansas State University,"['ksu.edu', 'k-state.edu']",['https://www.k-state.edu/'],United States,Kansas
+US,Kutztown University of Pennsylvania,['kutztown.edu'],['http://www.kutztown.edu/'],United States,Pennsylvania
+US,Mansfield University of Pennsylvania,['mansfield.edu'],['http://www.mansfield.edu/'],United States,Pennsylvania
+US,Mercyhurst University,['mercyhurst.edu'],['https://mercyhurst.edu/'],United States,Pennsylvania
+US,Denver College of Nursing,['denvercollegeofnursing.edu'],['https://www.denvercollegeofnursing.edu/'],United States,Colorado
+US,Millersville University of Pennsylvania,['millersville.edu'],['http://www.millersville.edu/'],United States,Pennsylvania
+US,Ohio State University - Columbus,['osu.edu'],['https://www.osu.edu/'],United States,Ohio
+US,Pennsylvania College of Technology,['pct.edu'],['http://www.pct.edu/'],United States,Pennsylvania
+US,Pennsylvania State University,['psu.edu'],['http://www.psu.edu/'],United States,Pennsylvania
+US,Pennsylvania State University - Schuylkill Campus,['sl.psu.edu'],['http://www.sl.psu.edu/'],United States,Pennsylvania
+US,Purdue University Fort Wayne,['pfw.edu'],['https://www.pdfw.edu/'],United States,IN
+US,Pittsburg State University,['pittstate.edu'],['http://www.pittstate.edu/'],United States,Pennsylvania
+US,St. Francis College,['sfc.edu'],['https://www.sfc.edu/'],United States,New York
+US,Shippensburg University of Pennsylvania,['ship.edu'],['http://www.ship.edu/'],United States,Pennsylvania
+US,Slippery Rock University of Pennsylvania,['sru.edu'],['http://www.sru.edu/'],United States,Pennsylvania
+US,"University of California, Office of the President",['ucop.edu'],['https://www.ucop.edu/'],United States,CA
+US,UC Hastings College of the Law,['uchastings.edu'],['http://www.uchastings.edu/'],United States,CA
+US,"University of Illinois, Urbana-Champaign","['uiuc.edu', 'illinois.edu']",['https://illinois.edu/'],United States,Illinois
+US,University of New Hampshire,['unh.edu'],['https://www.unh.edu/'],United States,New Hampshire
+US,The University of North Carolina at Greensboro,['uncg.edu'],['https://www.uncg.edu/'],United States,North Carolina
+US,University of Pennsylvania,"['upenn.edu', 'seas.upenn.edu']",['http://www.upenn.edu/'],United States,Pennsylvania
+US,University of Pittsburgh,['pitt.edu'],['http://www.pitt.edu/'],United States,Pennsylvania
+US,University of Pittsburgh at Johnstown,['upj.pitt.edu'],['http://www.upj.pitt.edu/'],United States,Pennsylvania
+US,University of Pittsburgh at Bradford,['upb.pitt.edu'],['https://www.upb.pitt.edu/'],United States,Pennsylvania
+US,Anderson University,['andersonuniversity.edu'],['https://andersonuniversity.edu/'],United States,South Carolina
+US,The University of Texas at Austin,['utexas.edu'],['https://www.utexas.edu/'],United States,Texas
+US,The University of Texas at San Antonio,['utsa.edu'],['https://www.utsa.edu/'],United States,Texas
+US,Virginia Tech,['vt.edu'],['https://www.vt.edu/'],United States,Virginia
+US,Walla Walla University,['wallawalla.edu'],['http://www.wallawalla.edu/'],United States,Washington
+US,West Chester University of Pennsylvania,['wcupa.edu'],['http://www.wcupa.edu/'],United States,Pennsylvania
+US,Westminster College of New Wilmington,['westminster.edu'],['http://www.westminster.edu/'],United States,Pennsylvania
+US,Westminster College of Fulton,['westminster-mo.edu'],['http://www.westminster-mo.edu/'],United States,Missouri
+US,York College of Pennsylvania,['ycp.edu'],['http://www.ycp.edu/'],United States,Pennsylvania
+US,Houston Baptist University,['hbu.edu'],['https://www.hbu.edu/'],United States,TX
+US,San Bernardino Valley College,['valleycollege.edu'],['http://www.valleycollege.edu'],United States,California
+US,San Diego City College,"['sdcity.edu', 'student.sdccd.edu']",['http://www.sdcity.edu/'],United States,California
+US,San Diego Mesa College,"['sdmesa.edu', 'student.sdccd.edu']",['http://www.sdmesa.edu/'],United States,California
+US,San Diego Miramar College,"['sdmiramar.edu', 'student.sdccd.edu']",['http://www.sdmiramar.edu/'],United States,California
+US,CUNY Baruch College,['baruch.cuny.edu'],['https://www.baruch.cuny.edu/'],United States,NY
+US,CUNY Queens College,['qc.cuny.edu'],['https://www.qc.cuny.edu/'],United States,NY
+US,CUNY City Tech,['citytech.cuny.edu'],['https://www.citytech.cuny.edu/'],United States,NY
+US,CUNY City College of NY,['ccny.cuny.edu'],['https://www.ccny.cuny.edu/'],United States,NY
+US,CUNY Brooklyn College,['brooklyn.cuny.edu'],['http://www.brooklyn.cuny.edu/'],United States,NY
+US,CUNY Medgar Evers College,['mec.cuny.edu'],['https://www.mec.cuny.edu/'],United States,NY
+US,CUNY College of Staten Island,['csi.cuny.edu'],['https://www.csi.cuny.edu/'],United States,NY
+US,CUNY Macauly Honors College,['macauly.cuny.edu'],['https://macaulay.cuny.edu/'],United States,NY
+US,Pennsylvania Highlands Community College,['pennhighlands.edu'],['http://www.pennhighlands.edu'],United States,Pennsylvania
+US,Pennsylvania Institute of Technology,['pit.edu'],['http://www.pit.edu'],United States,Pennsylvania
+US,Pittsburgh Technical Institute,['pti.edu'],['http://www.pti.edu'],United States,Pennsylvania
+US,University of Pittsburgh-Titusville,['upt.pitt.edu'],['http://www.upt.pitt.edu'],United States,Pennsylvania
+US,Schreiner University,['schreiner.edu'],['https://schreiner.edu/'],United States,Texas
+US,Trinity Bible College & Graduate School,['trinitybiblecollege.edu'],['https://trinitybiblecollege.edu'],United States,ND
+US,University of Michigan-Flint,['umflint.edu'],['http://www.umflint.edu'],United States,MI
+US,Defiance College,['defiance.edu'],['http://www.defiance.edu/'],United States,Ohio
+US,Gulf Coast State College,['gulfcoast.edu'],['https://www.gulfcoast.edu/'],United States,Florida
+US,Academy of Art University,"['academyart.edu', 'art.edu']",['https://www.academyart.edu/'],United States,California
+US,Lenoir-Rhyne University,['lr.edu'],['https://www.lr.edu/'],United States,North Carolina
+US,Point Park University,['pointpark.edu'],['https://pointpark.edu/'],United States,Pennsylvania
+US,Northwood University,['northwood.edu'],['https://northwood.edu/'],United States,Michigan
+US,Clark Atlanta University,['cau.edu'],['https://www.cau.edu/'],United States,GA
+US,Morehouse,['morehouse.edu'],['https://morehouse.edu/'],United States,GA
+US,Gwynedd Mercy University,['gmercyu.edu'],['https://www.gmercyu.edu/'],United States,Pennsylvania
+US,Bellevue College,['bellevuecollege.edu'],['https://bellevuecollege.edu'],United States,Washington
+US,CUNY Lehman College,['lehman.cuny.edu'],['https://www.lehman.cuny.edu/'],United States,"New York, NY"
+US,CUNY John Jay College of Criminal Justice,['jjay.cuny.edu'],['https://www.jjay.cuny.edu/'],United States,"New York, NY"
+US,Hunter College CUNY,['hunter.cuny.edu'],['https://hunter.cuny.edu/'],United States,"New York, NY"
+US,CUNY York College,['york.cuny.edu'],['https://www.york.cuny.edu/'],United States,"New York, NY"
+US,Unity Environmental College,['unity.edu'],['https://unity.edu/'],United States,Maine
+US,Island Drafting & Technical Institute,['idti.edu'],['https://www.idti.edu/'],United States,NY
+US,Bay Path University,['baypath.edu'],['https://www.baypath.edu/'],United States,MA
+US,State University of New York at Oneonta,['suny.oneonta.edu'],['https://suny.oneonta.edu'],United States,New York
+US,Northwestern Michigan College,['nmc.edu'],['https://www.nmc.edu'],United States,Michigan
+US,Abraham Baldwin Agricultural College,"['abac.edu', 'stallions.abac.edu']",['https://www.abac.edu/'],United States,Georgia
+US,Capital University,['capital.edu'],['https://www.capital.edu/'],United States,Ohio
+US,State University of New York College at Oneonta,['oneonta.edu'],['https://suny.oneonta.edu/'],United States,New York
+US,University of Mount Olive,['umo.edu'],['https://umo.edu/'],United States,North Carolina
+US,The University of Olivet,['olivetcollege.edu'],['https://www.uolivet.edu/'],United States,Michigan
+US,Westminster University,['westminsteru.edu'],['https://westminsteru.edu/'],United States,"Salt Lake City, Utah"
+US,Dominican University,['dom.edu'],['https://www.dom.edu/'],United States,Illinois
